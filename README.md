@@ -46,3 +46,5 @@ Ayrıca modelin tahminlerinin gerçek fiyatlarla uyumlu olduğu, scatter plot gr
 
 Bu proje, gözetimli öğrenme yöntemi olan Radom Forest Regression modeli ile başarılı bir araç fiyat tahmin sistemi oluşturmuştur.  
 Hem teknik olarak sağlam, hem de gerçek hayatta uygulanabilir bir makine öğrenmesi uygulamasıdır.
+Kaggle Link:
+https://www.kaggle.com/code/mehmetbalik/price-estimate-by-random-forest-regression
